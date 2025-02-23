@@ -1,0 +1,70 @@
+{
+  "name": "Yi_Lite__1080@60_1080p_16by9_1920x1080-60.00fps",
+  "note": "",
+  "calibrated_by": "MrBurgerCZ",
+  "camera_brand": "Yi",
+  "camera_model": "Lite",
+  "lens_model": "",
+  "camera_setting": "1080@60",
+  "calib_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "orig_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "output_dimension": {
+    "w": 1920,
+    "h": 1080
+  },
+  "frame_readout_time": null,
+  "frame_readout_direction": null,
+  "gyro_lpf": null,
+  "input_horizontal_stretch": 1.0,
+  "input_vertical_stretch": 1.0,
+  "num_images": 15,
+  "fps": 59.996616,
+  "crop": null,
+  "official": false,
+  "asymmetrical": false,
+  "fisheye_params": {
+    "RMS_error": 0.21769155750736963,
+    "camera_matrix": [
+      [
+        880.284591632972,
+        0.0,
+        1010.838387939576
+      ],
+      [
+        0.0,
+        879.9785026858333,
+        557.0892269428645
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "distortion_coeffs": [
+      0.01925219114326572,
+      0.0008723357923665824,
+      0.004500437641684311,
+      -0.0002100015387374033
+    ],
+    "radial_distortion_limit": null
+  },
+  "identifier": "",
+  "calibrator_version": "1.6.0",
+  "date": "",
+  "compatible_settings": [],
+  "sync_settings": null,
+  "distortion_model": null,
+  "digital_lens": null,
+  "digital_lens_params": null,
+  "interpolations": null,
+  "focal_length": null,
+  "crop_factor": null,
+  "global_shutter": false
+}
